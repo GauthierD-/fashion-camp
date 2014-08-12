@@ -1,4 +1,4 @@
-only did styles for these languages...i don't really care about any of the others:
+Some fashion thems for Coda
 
 -CSS
 -HTML
@@ -7,6 +7,3 @@ only did styles for these languages...i don't really care about any of the other
 -XML
 
 add your own, if you like.
-
-
-## CHECK THIS NOISE: [http://m.cassett.es/jyoungblood/f-camp.png (preview)](http://m.cassett.es/jyoungblood/f-camp.png)##
